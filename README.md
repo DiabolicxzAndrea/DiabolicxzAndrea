@@ -16,7 +16,6 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiabolicxzAndrea&show_icons=true&theme=dracula&include_all_commits"/>
 
 
-![Snake animation](https://github.com/DiabolicxzAndrea/DiabolicxzAndrea/blob/output/github-contribution-grid-snake.svg)
 
           
           
