@@ -1,6 +1,6 @@
 ### *Olá, me chamo Andréa!*
 
--  ✩  Estudante de Desenvolvimento de sistemas 1/3
+-  ✩  Atualmente cursando Desenvolvimento de sistemas 1/3
 -  ✩  Pronomes: Ela/dela
 -  ✩  Amo música, jogos, manhuas e animes
 ##
