@@ -16,8 +16,6 @@
 <a href="https://github.com/DiabolicxzAndrea">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiabolicxzAndrea&show_icons=true&theme=shadow_red&include_all_commits"/>
  
-<img src="/DiabolicxzAndrea/.github/cliff-burton-metallica.gif">
-
 
 
           
