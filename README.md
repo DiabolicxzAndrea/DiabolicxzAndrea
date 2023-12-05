@@ -9,8 +9,8 @@
 <a href="https://open.spotify.com/user/bc79ertus2d0ykcqtd6t4nrol?si=e9f7fa8f9e3f4a8f/#" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
 ##
-<img align="center" alt="Andrea-C" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-
+<img width="48" height="48" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c-programming"/>
+          
 ##
 <div align="center">
 <a href="https://github.com/DiabolicxzAndrea">
